@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>serenity-ring</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M150,300 C67.1572875,300 0,232.842712 0,150 C0,67.1572875 67.1572875,0 150,0 C232.842712,0 300,67.1572875 300,150 C300,232.842712 232.842712,300 150,300 Z M148,258 C208.751322,258 258,208.751322 258,148 C258,87.2486775 208.751322,38 148,38 C87.2486775,38 38,87.2486775 38,148 C38,208.751322 87.2486775,258 148,258 Z" id="serenity-ring" fill="#ECF1FF"></path>
+    </g>
+</svg>

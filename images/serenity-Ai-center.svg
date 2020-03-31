@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>serenity-Ai-center</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#4ED4FC" offset="0%"></stop>
+            <stop stop-color="#4000B6" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <path d="M45,90 C20.1471863,90 0,69.8528137 0,45 C0,20.1471863 20.1471863,0 45,0 C69.8528137,0 90,20.1471863 90,45 C90,69.8528137 69.8528137,90 45,90 Z M45,78 C63.2253967,78 78,63.2253967 78,45 C78,26.7746033 63.2253967,12 45,12 C26.7746033,12 12,26.7746033 12,45 C12,63.2253967 26.7746033,78 45,78 Z" id="path-2"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="serenity-Ai-center">
+            <use fill="#4ED4FC" xlink:href="#path-2"></use>
+            <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+        </g>
+    </g>
+</svg>
